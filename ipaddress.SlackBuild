@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for Python ipaddress
-# Copyright (C) 2016-2018 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2016-2019 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: ipaddress.SlackBuild,v 1.2 2018/01/06 19:14:15 gsotirov Exp $
+# $Id: ipaddress.SlackBuild,v 1.3 2019/11/09 08:20:55 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=ipaddress
-VERSION=1.0.19
+VERSION=1.0.22
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
